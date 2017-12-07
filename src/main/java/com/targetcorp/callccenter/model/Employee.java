@@ -60,7 +60,7 @@ public class Employee {
       return currentCall == null;  
     }  
     
-    public Designation getRank() {  
+    public Designation getEmpType() {  
       return empType;  
     }  
 
